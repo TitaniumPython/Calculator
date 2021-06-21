@@ -18,6 +18,7 @@ char op = get_char("/ or x or + or -  ");
 float y=get_float("Gimme another number ");
 
 //Multiplies the 2 numbers
+
 if(op=='*'){
   
     printf("%f\n",x*y);}
