@@ -19,7 +19,7 @@ float y=get_float("Gimme another number ");
 
 //Multiplies the 2 numbers
 
-if(op=='*'){
+if(op=='x'){
   
     printf("%f\n",x*y);}
 
